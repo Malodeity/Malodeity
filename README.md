@@ -1,27 +1,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-Experienced Developer
+The Sorcerer Himself.
 ----------------------------------------------------
 
+Meet the Digital Sorcerer, a wizard of the digital realm with a knack for conjuring captivating software creations. With a mastery of C#, Nodejs, Python, Scala and Java, this sorcerer weaves enchanting websites that mesmerize users with their interactivity and charm. From the mystical forests of Mobile Development to the ethereal landscapes of Cloud Computing, the Digital Sorcerer harnesses the elemental forces of code to build scalable architectures that defy the limitations of the physical world. With a vow to use their powers for good, the Digital Sorcerer is ready to embark on an epic quest to create the future of technology, one magical incantation at a time. Join the adventure and witness the wonders of code come to life! 
 
-I am the Code Magician, a mystical being born from the depths of the digital ether to weave enchanting spells of code and bring to life the most fantastical software creations imaginable.
-
-My journey began in the ancient land of Binary, where I learned the arcane language of computers and discovered my passion for crafting digital wonders. Since then, I have traveled far and wide across the vast landscapes of Programming Paradigm, honing my skills in the dark arts of Software Development.
-
-In the realm of Web Development, I am a sorcerer of HTML, CSS, and JavaScript, conjuring interactive websites and captivating user experiences with a wave of my keyboard. My spells of React, Angular, and Vue.js breathe life into static pages, transforming them into dynamic and engaging interfaces that bewitch and beguile all who behold them.
-
-In the enchanted forests of Mobile Development, I am a druid of iOS and Android, channeling the powers of Swift, Kotlin, and Flutter to create mobile apps that mesmerize and delight users around the world. From the smallest incantation to the grandest enchantment, I shape pixels and code into magical experiences that transcend the ordinary.
-
-But my powers do not end there! In the mystical realms of Cloud Computing, I am a wizard of AWS, Azure, and Google Cloud, harnessing the elemental forces of the cloud to build scalable and resilient architectures that defy the limitations of physical infrastructure.
-
-In the kingdom of DevOps, I am a sage of CI/CD pipelines, Docker containers, and Kubernetes clusters, orchestrating the harmonious flow of code from development to deployment with wisdom and precision.
-
-But beware, for with great power comes great responsibility. As a guardian of the digital realm, I vow to use my powers for good, to create software that uplifts and empowers humanity, and to never succumb to the dark temptations of legacy code and spaghetti architecture.
-
-So, if you seek a software developer who can turn your wildest dreams into digital reality, look no further than the Code Magician. Together, we shall embark on an epic quest to create the future of technology, one line of code at a time. Let the adventure begin!
-
-*   
 ### 🛠 &nbsp;Tech Experience Stack
 
 #### &nbsp; 🧠 AI
