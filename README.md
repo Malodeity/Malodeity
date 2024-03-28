@@ -64,6 +64,7 @@ Meet the Digital Sorcerer, a wizard of the digital realm with a knack for conjur
 [![Microsoft SQL server](https://img.shields.io/badge/-Microsoft_SQL_server-05122A?style=flat&logo=MicrosoftSQLserver&logoColor=A8B9CC)](#)&nbsp;
 [![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&logoColor=A8B9CC)](#)&nbsp;
 [![Memcached](https://img.shields.io/badge/-Memcached-05122A?style=flat&logo=Memcached&logoColor=A8B9CC)](#)&nbsp;
+[![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=Redis&logoColor=A8B9CC)](#)&nbsp;
 
 #### &nbsp; 🚀 JavaScript Libraries & Frameworks
 
