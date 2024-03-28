@@ -65,25 +65,6 @@ Meet the Digital Sorcerer, a wizard of the digital realm with a knack for conjur
 [![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&logoColor=A8B9CC)](#)&nbsp;
 [![Memcached](https://img.shields.io/badge/-Memcached-05122A?style=flat&logo=Memcached&logoColor=A8B9CC)](#)&nbsp;
 
-#### &nbsp; ⚡ PHP Libraries & Frameworks & CMS
-
-[![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=A8B9CC)](#)&nbsp;
-[![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=symfony&logoColor=A8B9CC)](#)&nbsp;
-[![Smarty](https://img.shields.io/badge/-Smarty-05122A?style=flat&logo=smarty&logoColor=A8B9CC)](#)&nbsp;
-[![Ratchet Websocket](https://img.shields.io/badge/-Ratchet_WebSocket-05122A?style=flat&logo=ratchet&logoColor=A8B9CC)](#)&nbsp;
-[![Php Spread Sheet](https://img.shields.io/badge/-Php_Spread_Sheet-05122A?style=flat&logo=PhpSpreadSheet&logoColor=A8B9CC)](#)&nbsp;
-[![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress&logoColor=A8B9CC)](#)&nbsp;
-[![Joomla](https://img.shields.io/badge/-Joomla-05122A?style=flat&logo=joomla&logoColor=A8B9CC)](#)&nbsp;
-[![October CMS](https://img.shields.io/badge/-October_CMS-05122A?style=flat&logo=OctobeCMS&logoColor=A8B9CC)](#)&nbsp;
-[![Laravel Voyager](https://img.shields.io/badge/-Laravel_Voyager-05122A?style=flat&logo=Voyager&logoColor=A8B9CC)](#)&nbsp;
-[![Laravel Nova](https://img.shields.io/badge/-Laravel_Nova-05122A?style=flat&logo=laravelNova&logoColor=A8B9CC)](#)&nbsp;
-[![ModX](https://img.shields.io/badge/-ModX-05122A?style=flat&logo=ModX&logoColor=A8B9CC)](#)&nbsp;
-[![DialogFlow](https://img.shields.io/badge/-DialogFlow-05122A?style=flat&logo=DialogFlow&logoColor=A8B9CC)](#)&nbsp;
-[![Telegram Api](https://img.shields.io/badge/-Telegram_API_(bots)-05122A?style=flat&logo=Telegram&logoColor=A8B9CC)](#)&nbsp;
-[![Viber Api](https://img.shields.io/badge/-Viber_API_(bots)-05122A?style=flat&logo=Viber&logoColor=A8B9CC)](#)&nbsp;
-[![Binance Api+Sockets](https://img.shields.io/badge/-Binance_API+Sockets-05122A?style=flat&logo=Binance&logoColor=A8B9CC)](#)&nbsp;
-
-
 #### &nbsp; 🚀 JavaScript Libraries & Frameworks
 
 [![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=A8B9CC)](#)&nbsp;
